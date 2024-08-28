@@ -1,7 +1,7 @@
 # Python_1_HSE_2024
 Курс "Язык программирования Python" для 1 курса ФКН ВШЭ 2024-2025 год
 
-#### (Лекция 1: Ввод-вывод, типы данных)[https://colab.research.google.com/github/Palladain/Python_1_HSE_2024/blob/main/Lecture_1.ipynb]
+#### [Лекция 1: Ввод-вывод, типы данных](https://colab.research.google.com/github/Palladain/Python_1_HSE_2024/blob/main/Lecture_1.ipynb)
 #### Лекция 2: PEP-8 и как правильно писать код
 #### Лекция 3: Ввод-вывод с файла, циклы и условия, множества, словари
 #### Лекция 4: Функции, рекурсии
