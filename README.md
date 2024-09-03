@@ -3,7 +3,7 @@
 
 #### [Лекция 1: Ввод-вывод, типы данных, PEP-8](https://colab.research.google.com/github/Palladain/Python_1_HSE_2024/blob/main/Lecture_1.ipynb)
 #### Лекция 2: Ввод-вывод с файла, циклы и условия
-#### Лекция 3: Множества, словари
+#### [Лекция 3: Множества, словари](https://colab.research.google.com/github/Palladain/Python_1_HSE_2024/blob/main/Lectures/Lecture_03.ipynb)
 #### Лекция 4: Функции, рекурсии
 #### Лекция 5: Collections + itertools, регулярные выражения
 #### Лекция 6: Контрольная работа (без лекции)
