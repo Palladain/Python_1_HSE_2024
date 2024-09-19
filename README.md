@@ -5,7 +5,7 @@
 #### [Лекция 2: Ввод-вывод с файла, циклы и условия](https://colab.research.google.com/github/Palladain/Python_1_HSE_2024/blob/main/Lectures/Lecture_02.ipynb)
 #### [Лекция 3: Множества, словари](https://colab.research.google.com/github/Palladain/Python_1_HSE_2024/blob/main/Lectures/Lecture_03.ipynb)
 #### [Лекция 4: Функции, рекурсии](https://colab.research.google.com/github/Palladain/Python_1_HSE_2024/blob/main/Lectures/Lecture_04.ipynb)
-#### Лекция 5: Collections + itertools, регулярные выражения
+#### [Лекция 5: Collections + itertools, регулярные выражения](https://colab.research.google.com/github/Palladain/Python_1_HSE_2024/blob/main/Lectures/Lecture_05.ipynb)
 #### Лекция 6: Контрольная работа (без лекции)
 #### Лекция 7: ООП-1
 #### Лекция 8: ООП-2
