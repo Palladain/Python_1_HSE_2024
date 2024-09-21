@@ -7,8 +7,8 @@
 #### [Лекция 4: Функции, рекурсии](https://colab.research.google.com/github/Palladain/Python_1_HSE_2024/blob/main/Lectures/Lecture_04.ipynb)
 #### [Лекция 5: Collections + itertools, регулярные выражения](https://colab.research.google.com/github/Palladain/Python_1_HSE_2024/blob/main/Lectures/Lecture_05.ipynb)
 #### Лекция 6: Контрольная работа (без лекции)
-#### Лекция 7: ООП-1
-#### Лекция 8: ООП-2
+#### [Лекция 7: ООП-1](https://colab.research.google.com/github/Palladain/Python_1_HSE_2024/blob/main/Lectures/Lecture_07_08.ipynb)
+#### [Лекция 8: ООП-2](https://colab.research.google.com/github/Palladain/Python_1_HSE_2024/blob/main/Lectures/Lecture_07_08.ipynb)
 #### Лекция 9: Итераторы и генераторы
 #### Лекция 10: Декораторы
 #### Лекция 11: Исключения и тестирование
