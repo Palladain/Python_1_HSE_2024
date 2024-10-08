@@ -10,7 +10,7 @@
 #### [Лекция 7: ООП-1](https://colab.research.google.com/github/Palladain/Python_1_HSE_2024/blob/main/Lectures/Lecture_07_08.ipynb)
 #### [Лекция 8: ООП-2](https://colab.research.google.com/github/Palladain/Python_1_HSE_2024/blob/main/Lectures/Lecture_07_08.ipynb)
 #### [Лекция 9: Декораторы](https://colab.research.google.com/github/Palladain/Python_1_HSE_2024/blob/main/Lectures/Lecture_09.ipynb)
-#### Лекция 10: Итераторы и генераторы
+#### [Лекция 10: Итераторы и генераторы](https://colab.research.google.com/github/Palladain/Python_1_HSE_2024/blob/main/Lectures/Lecture_10.ipynb)
 #### Лекция 11: Исключения и тестирование
 #### Лекция 12: Numpy
 #### Лекция 13: Pandas
