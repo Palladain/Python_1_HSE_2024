@@ -12,6 +12,6 @@
 #### [Лекция 9: Декораторы](https://colab.research.google.com/github/Palladain/Python_1_HSE_2024/blob/main/Lectures/Lecture_09.ipynb)
 #### [Лекция 10: Итераторы и генераторы](https://colab.research.google.com/github/Palladain/Python_1_HSE_2024/blob/main/Lectures/Lecture_10.ipynb)
 #### Лекция 11: Исключения и тестирование
-#### Лекция 12: Numpy
+#### [Лекция 12: Numpy](https://colab.research.google.com/github/Palladain/Python_1_HSE_2024/blob/main/Lectures/Lecture_12.ipynb)
 #### Лекция 13: Pandas
 #### Лекция 14: Matplotlib + seaborn
